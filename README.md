@@ -5,6 +5,16 @@
 - 📫 How to reach me ... phdy12225@gmail.com
 - 😄 Pronouns: ... i'm normal. 
 - ⚡ Fun fact: ... you won't have a hard time waking up if you don't sleep.
+- 
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('shiningstage', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Tip Me',
+    'floating-chat.donateButton.background-color': '#00b9fe',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
 
 <!---
 shiningstage/shiningstage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
